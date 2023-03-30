@@ -1,0 +1,6 @@
+.star{
+    background-image: url(public/m.svg);
+    height: 300px;
+    display: block;
+    background-repeat: no-repeat;
+}
